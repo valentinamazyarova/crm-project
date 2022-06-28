@@ -8,5 +8,6 @@ SPA приложение имитирующее Систему управлен�
 
 * Форма заполняется автоматически тестовыми данными, для удобства тестирования
 * Для хранения заявок, в качестве API, использован json-server. Он был поднят на https://glitch.com/ . Ссылка на API проекта: https://obtainable-spangled-bugle.glitch.me/applications
-* Ссылка на GitHub Pages https://valentinamazyarova.github.io/crm-project/#/table
+* Ссылка на GitHub Pages: https://valentinamazyarova.github.io/crm-project/#/table
+* Посмотреть код: https://github.com/valentinamazyarova/crm-dev.git
 
